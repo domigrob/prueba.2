@@ -45,7 +45,7 @@ export default function TabTwoScreen() {
    return (
      <View style={styles.container}>
        <ActivityIndicator size="large" />
-       <Text>Cargando usuarios...</Text>
+       <Text>Cargando usuarios... xd </Text>
      </View>
    );
  }
@@ -104,3 +104,5 @@ const styles = StyleSheet.create({
  card: { padding: 12, borderWidth: 1, borderRadius: 8 },
  name: { fontWeight: "600", marginBottom: 4 }
 });
+
+
